@@ -91,7 +91,7 @@ Open to public sector engineers looking to improve standardization, governance, 
 
 ## 📝 License
 
-Distributed under the MIT License. See [`LICENSE.md`](LICENSE.md) for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 ```
 
 
