@@ -1,4 +1,4 @@
-#VA SQL Server Data Warehouse Starter Kit
+# VA SQL Server Data Warehouse Starter Kit
 
 This repository provides a modular, VA-compliant framework for building a SQL Server–based data warehouse with SSIS scaffolding, secure audit logging, and PII masking workflows. Designed for agility, compliance, and integration with CI/CD pipelines.
 
