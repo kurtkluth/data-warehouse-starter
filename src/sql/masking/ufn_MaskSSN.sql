@@ -1,0 +1,6 @@
+CREATE FUNCTION [masking].[ufn_MaskSSN] (@ssn CHAR(11))
+RETURNS CHAR(11)
+AS
+BEGIN
+    RETURN CONCAT('XXX-XX-', RIGHT(@ssn, 4));
+END;
