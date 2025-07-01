@@ -17,7 +17,7 @@ This repository provides a modular, VA-compliant framework for building a SQL Se
 ## 📁 Folder Structure
 
 ```
-va-sql-dwh-starter/
+data-warehouse-starter/
 ├── src/
 │   ├── sql/
 │   │   ├── staging/           # Staging table DDLs
@@ -48,8 +48,8 @@ va-sql-dwh-starter/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kurtkluth/va-sql-dwh-starter.git
-   cd va-sql-dwh-starter
+   git clone https://github.com/kurtkluth/data-warehouse-starter.git
+   cd data-warehouse-starter
    ```
 
 2. Execute the PowerShell bootstrap (requires SMO/SqlServer module):
@@ -59,7 +59,7 @@ va-sql-dwh-starter/
 
 3. Open and configure the SSIS projects in `src/ssis/`
 
-4. Review compliance docs in `docs/compliance.md`
+4. Review compliance docs in [`docs/compliance.md`](docs/compliance.md)
 
 ---
 
@@ -91,7 +91,7 @@ Open to public sector engineers looking to improve standardization, governance, 
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE.md` for more information.
+Distributed under the MIT License. See [`LICENSE.md`](LICENSE.md) for more information.
 ```
 
 
